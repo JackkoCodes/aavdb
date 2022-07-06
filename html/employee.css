@@ -1,0 +1,12 @@
+.center {
+  width: 500px;
+  margin: auto;
+  border: 1px solid #FFFF00;
+  display: flex;
+  justify-content: center;
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+h1 {
+ 
+  
+}
